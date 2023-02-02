@@ -26,3 +26,6 @@ Submission deadline: 29 January, 2023
 Submit assignment
 
 1:03 PM
+
+
+<img src="https://github.com/sanjayengineer121/clock-of-office/blob/main/Screenshot%20(195).png">
